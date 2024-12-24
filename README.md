@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @ayushsharma8874383
-- 👀 I’m interested in. web devlopment 
-- 🌱 I’m currently learning
--  java script 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ayush! 👋  
+
+## 🚀 About Me:
+- 🌱 Learning Full Stack Web Development.  
+- 💼 Exploring Open-Source Contributions and Competitive Programming.  
+- 🎯 Goal: To become a Software Engineer in a reputed company.  
+- 💡 Interests: Web Development, Data Structures, and Problem Solving.  
+
+---
+
+## 🛠️ Skills:  
+### Programming Languages:  
+- HTML | CSS | JavaScript | Python  
+
+### Frameworks:  
+- React | Node.js  
+
+### Tools:  
+- Git | GitHub | VS Code | Postman  
+
+### Databases:  
+- MySQL | MongoDB  
+
+
 
 <!---
 ayushsharma8874383/ayushsharma8874383 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
